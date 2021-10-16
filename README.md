@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋
+
+I'm Timo and I work on various open source projects. I started contributing to open source in 2020. At the moment my focus is on wolf, a powerful tool to help developers make better apps faster.
 
 <!--
 **TimoZacherl/timozacherl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
