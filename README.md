@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm Timo and I work on various open source projects. I started contributing to open source in 2020. At the moment my focus is on wolf, a powerful tool to help developers make better apps faster.
+I'm Timo and I work on various open source projects. I started contributing to open source in 2020. At the moment I am focusing on privacy focused tools, which are mainly SDKs for user facing products.
 
 <!--
 **TimoZacherl/timozacherl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=lovetodream&count_private=true&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lovetodream&layout=compact&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lovetodream&layout=compact&langs_count=5)
